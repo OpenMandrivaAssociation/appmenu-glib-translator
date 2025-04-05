@@ -18,7 +18,7 @@ Source:         https://github.com/rilian-la-te/vala-panel-appmenu/archive/%{com
 
 BuildRequires:  meson
 BuildRequires:  gcc
-BuildRequires:  /usr/bin/vapigen
+BuildRequires:  vala-tools
 
 BuildRequires:  pkgconfig(gdk-pixbuf-2.0)
 BuildRequires:  pkgconfig(gio-unix-2.0)
